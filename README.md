@@ -5,7 +5,7 @@ Players control a scuba diver using arrow keys, navigating the underwater enviro
 
 This project showcases my ability to design and implement interactive experiences, handle real-time game mechanics, and manage UI feedback. It also highlights my problem-solving skills in balancing challenge and engagement within a simple yet meaningful game. Developing Plastic Collector allowed me to gain hands-on experience in game logic, event handling, and structured programming, making it a strong foundational project in my portfolio.
 ## Installation
-1. Download and install [Processing](https://processing.org/).
-2. Clone this repository:
+1. Download and install [Processing](https://processing.org/download).
+2. Clone this repository using Git:
    ```bash
-   git clone https://github.com/yourusername/plastic-collector.git
+   git clone https://github.com/samuelo21423/SeaWorld-Plastic-Collector.git
